@@ -1,0 +1,27 @@
+.footer {
+  display: flex;
+  margin: 92px auto 24px;
+}
+
+@media screen and (width: 320px) {
+  .footer {
+    margin: 64px auto 24px 16px;
+    width: 186px;
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media screen and (width: 768px) {
+  .footer {
+    margin: 88px auto 24px;
+    width: 720px;
+  }
+}
+
+@media screen and (width: 1024px) {
+  .footer {
+    margin: 92px auto 24px;
+    width: 928px;
+  }
+}

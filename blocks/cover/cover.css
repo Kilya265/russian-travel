@@ -1,0 +1,18 @@
+.cover {
+  margin: 92px auto 0;
+  display: grid;
+  flex-direction: column;
+  justify-content: center;
+}
+
+@media screen and (width: 320px) {
+  .cover {
+    margin: 66px auto 0;
+  }
+}
+
+@media screen and (width: 768px) {
+  .cover {
+    margin: 90px auto 0;
+  }
+}

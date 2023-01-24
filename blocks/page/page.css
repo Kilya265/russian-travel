@@ -1,0 +1,10 @@
+.page {
+  grid-area: page;
+  max-width: 1184px;
+  margin: 0 auto;
+}
+
+body {
+  background-color: #2A2C2F;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}

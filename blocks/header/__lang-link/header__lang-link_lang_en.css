@@ -1,0 +1,11 @@
+.header__lang-link_lang_en {
+  padding-left: 18px;
+  text-decoration: none;
+  width: 29px;
+}
+
+@media screen and (width: 320px) {
+  .header__lang-link {
+  width: 22px;
+  }
+}
