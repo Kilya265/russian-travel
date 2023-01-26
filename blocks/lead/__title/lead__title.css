@@ -18,10 +18,10 @@
   .lead__title {
     min-width: 288px;
     max-width: 337px;
-    height: 88px;
     font-size: 40px;
     line-height: 44px;
     padding-top: 48px;
+    margin: 0 auto;
 
   }
 }
