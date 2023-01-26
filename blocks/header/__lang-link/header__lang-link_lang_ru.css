@@ -1,3 +1,4 @@
 .header__lang-link_lang_ru {
   text-decoration-line: underline;
+  min-width: 30px;
 }

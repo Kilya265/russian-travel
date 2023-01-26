@@ -1,5 +1,4 @@
 .header__lang-link {
-  width: 30px;
   height: 28px;
   display: block;
   float: right;
@@ -15,9 +14,9 @@
   line-height: 28px;
 }
 
-@media screen and (width: 320px) {
+@media screen and (max-width: 320px) {
   .header__lang-link {
-  width: 22px;
+  max-width: 22px;
   height: 20px;
 
   font-size: 18px;
