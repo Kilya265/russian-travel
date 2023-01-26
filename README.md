@@ -11,7 +11,7 @@
 
 ## Ссылка на GitHub Pages
 
-* [Ссылка на GitHub Pages](https://students-yandex.github.io/russian-travel/index.html)
+* [Ссылка на GitHub Pages](https://kilya265.github.io/russian-travel/index.html)
 
 ### Обзор
 * Интро
