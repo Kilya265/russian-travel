@@ -60,3 +60,11 @@
     gap: 14px;
   }
 }
+
+@media screen and (min-width: 1261px) and (max-width: 1279px) {
+  .photo-grid__table {
+    gap: 12px;
+    margin: 0;
+  }
+}
+

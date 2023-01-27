@@ -24,21 +24,32 @@
 
 @media screen and (min-width: 520px) and (max-width: 767px) {
   .lead__image {
-    max-width: 100%;
+    max-width: 520px;
     padding-top: 56px;
     margin: 0;
 
   }
 }
 
-@media screen and (min-width: 768px) and (max-width: 868px){
+@media screen and (min-width: 768px) and (max-width: 769px){
   .lead__image {
     max-width: 768px;
-    margin: 40px auto 0;
+    padding-top: 40px;
+    position: relative;
+    margin: 0;
   }
 }
 
-@media screen and (min-width: 869px) and (max-width: 1023px){
+@media screen and (min-width: 770px) and (max-width: 899px){
+  .lead__image {
+    max-width: 768px;
+    padding-top: 40px;
+    position: relative;
+    margin: 0;
+  }
+}
+
+@media screen and (min-width: 900px) and (max-width: 1023px){
   .lead__image {
     max-width: 868px;
     margin: 40px auto 0;
