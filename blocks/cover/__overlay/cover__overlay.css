@@ -49,7 +49,7 @@
   }
 }
 
-@media screen and (min-width: 1280){
+@media screen and (min-width: 1280px){
   .cover__overlay {
     max-width: 1280px;
   }

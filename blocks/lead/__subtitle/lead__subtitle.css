@@ -31,7 +31,7 @@
   }
 }
 
-@media screen and (width: 768px) {
+@media screen and (min-width: 768px) {
   .lead__subtitle {
     margin: 32px auto 0;
   }
