@@ -9,14 +9,11 @@
   text-align: right;
 
   color: #FFFFFF;
-  display: flex;
-  margin-left: auto;
   margin-top: 2px;
 }
 
 @media screen and (max-width: 540px){
   .footer__copyright {
-    font-size: 14px;
     line-height: 14px;
     margin-top: 48px;
     margin-left: 0;

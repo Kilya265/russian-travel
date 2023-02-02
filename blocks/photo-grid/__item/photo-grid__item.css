@@ -1,9 +1,9 @@
 .photo-grid__item {
   list-style-type: none;
-  min-height: 213px;
+  max-height: 213px;
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (max-width: 1124px) {
   .photo-grid__item {
     max-width: 300px;
     max-height: 225px;

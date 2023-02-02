@@ -11,10 +11,6 @@
   margin: 0;
 }
 
-.place__title:nth-child(1) {
-  margin-top: 0;
-}
-
 @media screen and (max-width: 1084px){
   .place__title {
     max-width: 440px;
@@ -23,7 +19,6 @@
 
 @media screen and (max-width: 1023px) {
   .place__title {
-    word-spacing: 30px;
     max-width: 340px;
     font-size: 42px;
     line-height: 110%;
@@ -32,7 +27,6 @@
 
 @media screen and (max-width: 767px) {
   .place__title {
-    padding: 0 16px 0 16px;
     max-width: 320px;
     font-size: 36px;
     line-height: 38px;
