@@ -4,9 +4,8 @@
   margin: 92px auto 24px;
 }
 
-@media screen and (max-width: 1124px) {
+@media screen and (max-width: 1279px) {
   .footer {
-    margin: 92px auto 24px;
     max-width: 928px;
   }
 }
@@ -21,13 +20,13 @@
 
 @media screen and (max-width: 767px){
   .footer {
-    margin: 64px auto 24px 16px;
-    max-width: 540px;
-    flex-direction: row;
+    max-width: 520px;
+    flex-wrap: wrap;
+    align-items: center;
   }
 }
 
-@media screen and (max-width: 520px){
+@media screen and (max-width: 550px){
   .footer {
     margin: 64px auto 24px 16px;
     max-width: 186px;

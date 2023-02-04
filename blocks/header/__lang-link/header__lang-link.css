@@ -8,13 +8,12 @@
   text-decoration: none;
 }
 
-.header__lang-link:last-child:hover {
+.header__lang-link:hover {
   opacity: 0.8;
 }
 
 @media screen and (max-width: 320px) {
   .header__lang-link {
-  max-width: 22px;
   font-size: 18px;
   line-height: 20px;
   padding-top: 14px;

@@ -1,7 +1,6 @@
 .header__logo {
   max-width: 176px;
   display: block;
-  float: left;
 }
 
 @media screen and (max-width: 320px) {

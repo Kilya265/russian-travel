@@ -24,7 +24,6 @@
   .lead__title {
     min-width: 520px;
     max-width: 591px;
-    padding-top: 48px;
     font-size: 70px;
     line-height: 64px;
   }
@@ -36,7 +35,6 @@
     max-width: 337px;
     font-size: 40px;
     line-height: 44px;
-    padding-top: 48px;
   }
 }
 

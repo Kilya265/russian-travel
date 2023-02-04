@@ -10,12 +10,12 @@
 
   color: #FFFFFF;
   margin-top: 2px;
+  margin-bottom: 0;
 }
 
 @media screen and (max-width: 540px){
   .footer__copyright {
     line-height: 14px;
     margin-top: 48px;
-    margin-left: 0;
   }
 }
