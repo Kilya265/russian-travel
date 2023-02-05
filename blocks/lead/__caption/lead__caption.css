@@ -18,8 +18,7 @@
 @media screen and (max-width: 1184px) {
   .lead__caption {
     max-width: 928px;
-    margin-left: 0;
-    padding-left: 48px;
+    margin: 8px auto 0;
   }
 }
 
@@ -30,6 +29,13 @@
 }
 
 @media screen and (max-width: 767px) {
+  .lead__caption {
+    padding-left: 0;
+    margin-left: 0;
+  }
+}
+
+@media screen and (max-width: 426px) {
   .lead__caption {
     padding-left: 16px;
   }

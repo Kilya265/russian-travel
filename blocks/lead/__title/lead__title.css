@@ -20,16 +20,7 @@
   }
 }
 
-@media screen and (max-width: 767px) {
-  .lead__title {
-    min-width: 520px;
-    max-width: 591px;
-    font-size: 70px;
-    line-height: 64px;
-  }
-}
-
-@media screen and (max-width: 540px){
+@media screen and (max-width: 767px){
   .lead__title {
     min-width: 288px;
     max-width: 337px;

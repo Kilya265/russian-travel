@@ -20,15 +20,14 @@
 
 @media screen and (max-width: 767px){
   .footer {
-    max-width: 520px;
-    flex-wrap: wrap;
+    margin: 64px auto 24px 16px;
     align-items: center;
+    flex-direction: column;
   }
 }
 
-@media screen and (max-width: 550px){
+@media screen and (max-width: 426px){
   .footer {
-    margin: 64px auto 24px 16px;
     max-width: 186px;
   }
 }

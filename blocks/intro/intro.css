@@ -2,7 +2,7 @@
   margin-left: 100px;
 }
 
-@media screen and (max-width: 1025px) {
+@media screen and (max-width: 1075px) {
   .intro {
     margin-left: 20px;
   }
