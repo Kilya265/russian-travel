@@ -9,6 +9,7 @@
   text-transform: uppercase;
 
   margin-top: 8px;
+  margin-left: 100px;
 
   color: #FFFFFF;
 }
@@ -17,6 +18,7 @@
 @media screen and (max-width: 1184px) {
   .lead__caption {
     max-width: 928px;
+    margin-left: 0;
     padding-left: 48px;
   }
 }

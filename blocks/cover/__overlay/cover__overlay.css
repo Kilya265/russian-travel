@@ -3,7 +3,7 @@
   background: url(../../../images/cover-trains.jpg) no-repeat;
   background-size: cover;
   background-position: center;
-  width: 1184px;
+  max-width: 1184px;
   min-height: 740px;
   margin: 0 auto;
   position: relative;
