@@ -29,6 +29,7 @@
 @media screen and (max-width: 426px){
   .footer {
     max-width: 186px;
+    align-items: flex-start;
   }
 }
 
